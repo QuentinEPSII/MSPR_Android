@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoStylePromo</string>
+    <string name="opening_time_monday">Lundi: </string>
+    <string name="opening_time_tuesday">Mardi:</string>
+    <string name="opening_time_wednesday">Mercredi:</string>
+    <string name="opening_time_thirsday">Jeudi:</string>
+    <string name="opening_time_friday">Vendredi:</string>
+    <string name="opening_time_saturday">Samedi:</string>
+    <string name="opening_time_sunday">Dimanche:</string>
+</resources>
